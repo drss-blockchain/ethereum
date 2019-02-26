@@ -27,3 +27,4 @@ no. | title | link | description | type | done
 1 | Smart Contracts: The Blockchain Technology That Will Replace Lawyers | [click here](https://blockgeeks.com/guides/smart-contracts/) | - | `article` | :o:
 2 | Intro to smart contract | [click here](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html) | soildity cocumentation | `docs` | :o:
 3 | Smart contract white paper | [click here](https://github.com/ethereum/wiki/wiki/White-Paper) | - | `article` | :o:
+4 | Smart Contracts: Building Blocks for Digital Markets | [click here](www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html) | by Nick Szabo | `article` | :o:
