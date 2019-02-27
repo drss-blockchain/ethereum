@@ -17,6 +17,7 @@ no. | title | link | description | type | done
 13 | Doubles Down on Ethereum Incentive Strategy | [click here](https://www.coindesk.com/vitalik-buterin-doubles-ethereum-incentive-strategy) | by Vitalik Buterin | `article` | :o:
 14 | Proof of Work vs Proof of Stake: Basic Mining Guide | [click here](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) | - | `article` | :o:
 15 | Ethereum Tutorial | [click here](https://ethereumdev.io/) | ethereum & DApp tutorial | `docs` | :o:
+16 | Ethereum basic guided projects | [click here](https://www.ethereum.org/greeter) | **must do** | `docs` | :o:
 
 <br/>
 
