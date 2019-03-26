@@ -18,7 +18,7 @@ no. | title | link | description | type | done
 14 | Proof of Work vs Proof of Stake: Basic Mining Guide | [click here](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) | - | `article` | :o:
 15 | Ethereum Tutorial | [click here](https://ethereumdev.io/) | ethereum & DApp tutorial | `docs` | :o:
 16 | Ethereum basic guided projects | [click here](https://www.ethereum.org/greeter) | **must do** | `docs` | :o:
-17 | What is paroty ethereum | [click here](https://wiki.parity.io/Parity-Ethereum) | it is a ethereum client | `article` | :o:
+17 | What is parity ethereum | [click here](https://wiki.parity.io/Parity-Ethereum) | it is a ethereum client | `article` | :o:
 <br/>
 
 ## smart contract
