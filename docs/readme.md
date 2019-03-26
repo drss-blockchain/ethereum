@@ -19,6 +19,9 @@ no. | title | link | description | type | done
 15 | Ethereum Tutorial | [click here](https://ethereumdev.io/) | ethereum & DApp tutorial | `docs` | :o:
 16 | Ethereum basic guided projects | [click here](https://www.ethereum.org/greeter) | **must do** | `docs` | :o:
 17 | What is parity ethereum | [click here](https://wiki.parity.io/Parity-Ethereum) | it is a ethereum client | `article` | :o:
+18 | History of Ethereum | [click here](https://vitalik.ca/2017-09-15-prehistory.html) | by Vitalik Buterin | `article` | :o:
+19 | cut and try building a dream | [click here](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/) | `article` | :o:
+
 <br/>
 
 ## smart contract
